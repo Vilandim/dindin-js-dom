@@ -117,4 +117,3 @@ comentarios.innerHTML ='<div class="depoimentos">' + '<img src="/imagens/icon-wa
 comentarios.style.display = 'flex'
 comentarios.style.margin = '30px', '50px'
 comentarios.style.gap = '20px'
-te
