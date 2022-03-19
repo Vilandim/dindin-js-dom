@@ -112,8 +112,9 @@ comentarios.innerHTML ='<div class="depoimentos">' + '<img src="/imagens/icon-wa
 '<div class="depoimentos">' +
 '<img src="/imagens/icon-jane.png" width="80px" height="80px" alt="depoimentos da dindim">' +
 '<p> ”Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.”' + '<br>' +  '<br>' + 'Janes Joplin, 29' + 
-'</p>' + '</div>'
+'</p>' + '</div>' 
 
 comentarios.style.display = 'flex'
 comentarios.style.margin = '30px', '50px'
 comentarios.style.gap = '20px'
+te
